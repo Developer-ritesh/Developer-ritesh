@@ -177,7 +177,9 @@ open_to      : Collaboration · Open Source · Freelance · Consulting
 ## `$ ls trophies/`
 
 <div align="center">
+
 [![Trophy](https://github-trophies.vercel.app/?username=Developer-ritesh&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/lucthienphong1120/github-trophies)
+  
 </div>
 
 ---
