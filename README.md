@@ -1,23 +1,25 @@
+<!-- HEADER — custom SVG wave banner, upload to your repo as assets/header.svg -->
+<div align="center">
+<img width="900" height="280" alt="header" src="https://github.com/user-attachments/assets/d04cc3db-86e7-4000-868d-051ddfc28e76" />
+</div>
+
+<!-- ─── ANIMATED SUBTITLE ──────────────────────────────────────────── -->
 <div align="center">
 
-```
-██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗     ██████╗ ██╗████████╗███████╗███████╗██╗  ██╗
-██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██║╚══██╔══╝██╔════╝██╔════╝██║  ██║
-██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝    ██████╔╝██║   ██║   █████╗  ███████╗███████║
-██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗    ██╔══██╗██║   ██║   ██╔══╝  ╚════██║██╔══██║
-██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║    ██║  ██║██║   ██║   ███████╗███████║██║  ██║
-╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=7C6EF0&center=true&vCenter=true&width=720&lines=Founder+%26+CEO+%40+BihariGraphic+%7C+Est.+2021+%F0%9F%8F%A2;Full-Stack+Dev+%7C+Flutter+%C2%B7+Node.js+%C2%B7+Java+%C2%B7+Android;Building+scalable+digital+products+from+Bihar%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Exploring+Game+Development+%F0%9F%8E%AE+%7C+YouTube+Content+Creator+%F0%9F%8E%AC;Turning+ideas+into+production-grade+software+%E2%9A%A1)](https://git.io/typing-svg)
 
+</div>
 
-```
+<!-- ─── QUICK STATS ROW ─────────────────────────────────────────────── -->
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=7C6EF0&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+%40+BihariGraphic+%7C+Est.+2021+%F0%9F%8F%A2;Full-Stack+Developer+%7C+Flutter+%C2%B7+Node.js+%C2%B7+Java+%C2%B7+Android;Building+scalable+digital+products+from+Bihar%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Exploring+Game+Development+%F0%9F%8E%AE+%7C+Sharing+on+YouTube+%F0%9F%8E%AC;Turning+ideas+into+production-grade+software+%E2%9A%A1)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Developer-ritesh&color=7c6ef0&style=flat-square&label=PROFILE+VIEWS" />
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Developer-ritesh?label=Followers&style=flat-square&color=7c6ef0&labelColor=1a1a24)](https://github.com/Developer-ritesh?tab=followers)
-&nbsp;
-[![BihariGraphic](https://img.shields.io/badge/BihariGraphic-Founder%20%26%20CEO-e96d4e?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA1IDktNVYybC05IDV6Ii8+PC9zdmc+)](https://biharigraphic.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Developer-ritesh&label=Profile+Views&color=7c6ef0&style=flat-square)
+&nbsp;&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/Developer-ritesh?label=Stars&style=flat-square&color=e96d4e)
+&nbsp;&nbsp;
+![Since](https://img.shields.io/badge/Coding_Since-2020-7c6ef0?style=flat-square)
+&nbsp;&nbsp;
+![BihariGraphic](https://img.shields.io/badge/BihariGraphic-Founder_%26_CEO_%7C_2021--present-e96d4e?style=flat-square)
 
 </div>
 
@@ -35,22 +37,22 @@ companies:
   - name     : BihariGraphic
     url      : https://biharigraphic.com
     role     : Founder & CEO
-    since    : 2021
+    period   : 2021 → present
     about    : >
-               Premier software development agency specializing in web,
-               mobile app development, custom software & UI/UX design.
-               Building scalable, fast, modern apps for businesses worldwide.
+               Premier software development agency — web, mobile apps,
+               custom software & UI/UX design for businesses worldwide.
+    services : Web Dev · Mobile Apps · UI/UX · SaaS · IT Consulting
 
 skills       : Flutter · Dart · Node.js · Java · Android · C · C++
                MongoDB · Firebase · MySQL · SQLite · WordPress · JSP · JDBC
 currently    : Exploring Game Development + shipping Flutter apps
 youtube      : https://youtube.com/@developerritesh
 contact      : help.biharigraphic@gmail.com
-phone        : +91 91357 11887
 open_to      : Collaboration · Open Source · Freelance · Consulting
 ```
 
-> *"Today, I lead a growing team, ship products used by thousands, and mentor the next generation of developers. Great software is built at the intersection of clean code, thoughtful design, and genuine care for the user."*
+> *"I lead a growing team, ship products used by thousands, and mentor the next generation of developers.  
+> Great software lives at the intersection of clean code, thoughtful design, and genuine care for the user."*
 
 ---
 
@@ -58,26 +60,26 @@ open_to      : Collaboration · Open Source · Freelance · Consulting
 
 ```
 [2020] ──▶  Started self-learning HTML, CSS & JavaScript
-             └─ Built first responsive websites
+             └─ Built first responsive websites & landed first clients
 
-[2021] ──▶  🏢 Founded BihariGraphic
+[2021] ──▶  🏢 Founded BihariGraphic  ★
              └─ Vision: modern digital products from Bihar
-             └─ Launched web & mobile dev agency
+             └─ Launched full-service web & mobile dev agency
 
 [2022] ──▶  Deep-dived into Flutter & Android Development
-             └─ Built first SaaS platform — 200+ users
+             └─ Built first SaaS platform — 200+ active users
 
 [2023] ──▶  Expanded into full-stack (Node.js + MongoDB + Firebase)
-             └─ Scaled BihariGraphic team & services
-             └─ Started YouTube tutorials for developer community
+             └─ Scaled BihariGraphic — team, clients & services
+             └─ Launched YouTube tutorials for developer community
 
 [2024] ──▶  Exploring Game Development (Unity / C#)
-             └─ Building tools & open-source projects
+             └─ Building open-source tools & content library
 
 [2025] ──▶  Growing BihariGraphic · Shipping products · Mentoring devs
-             └─ Sharing knowledge, one video at a time
+             └─ Thousands of learners — sharing knowledge daily
 
-[now]  ──▶  █ (in progress...)
+[now]  ──▶  ████░░░░ (in progress...)
 ```
 
 ---
@@ -85,13 +87,15 @@ open_to      : Collaboration · Open Source · Freelance · Consulting
 ## `$ cat tech_stack.json`
 
 <details open>
-<summary><b>🏢 Agency & Business</b></summary>
+<summary><b>🏢 BihariGraphic — Agency Services</b></summary>
 <br>
 
-![BihariGraphic](https://img.shields.io/badge/BihariGraphic-Founder%20%26%20CEO-e96d4e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA1IDktNVYybC05IDV6Ii8+PC9zdmc+)
-![Web Dev](https://img.shields.io/badge/Web_Development-Agency-7c6ef0?style=for-the-badge&logo=webflow&logoColor=white)
-![Mobile Dev](https://img.shields.io/badge/Mobile_Apps-Agency-4ecdc4?style=for-the-badge&logo=android&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-Agency-f7c059?style=for-the-badge&logo=figma&logoColor=black)
+![Web Dev](https://img.shields.io/badge/Web_Development-Service-7c6ef0?style=for-the-badge&logo=html5&logoColor=white)
+![Mobile Apps](https://img.shields.io/badge/Mobile_Apps-Service-4ecdc4?style=for-the-badge&logo=android&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-Service-f7c059?style=for-the-badge&logo=figma&logoColor=black)
+![Custom Software](https://img.shields.io/badge/Custom_Software-Service-e96d4e?style=for-the-badge&logo=codesandbox&logoColor=white)
+![IT Consulting](https://img.shields.io/badge/IT_Consulting-Service-4db6ac?style=for-the-badge&logo=googlecloud&logoColor=white)
+![App Security](https://img.shields.io/badge/App_Security-Service-ef5350?style=for-the-badge&logo=shield&logoColor=white)
 
 </details>
 
@@ -117,8 +121,8 @@ open_to      : Collaboration · Open Source · Freelance · Consulting
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP_JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </details>
 
@@ -130,7 +134,6 @@ open_to      : Collaboration · Open Source · Freelance · Consulting
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </details>
 
@@ -141,7 +144,7 @@ open_to      : Collaboration · Open Source · Freelance · Consulting
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -151,13 +154,7 @@ open_to      : Collaboration · Open Source · Freelance · Consulting
 
 ## `$ git log --stats`
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Developer-ritesh&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=7c6ef0&icon_color=4ecdc4&text_color=e8e6f0&ring_color=e96d4e" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-ritesh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=7c6ef0&text_color=e8e6f0&langs_count=8" />
-
-</div>
 
 <div align="center">
 
@@ -171,7 +168,7 @@ open_to      : Collaboration · Open Source · Freelance · Consulting
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Developer-ritesh&theme=react-dark&hide_border=true&bg_color=0a0a0f&color=7c6ef0&line=4ecdc4&point=e96d4e&area=true&area_color=7c6ef024)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Developer-ritesh&theme=react-dark&hide_border=true&bg_color=0a0a0f&color=7c6ef0&line=4ecdc4&point=e96d4e&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -181,8 +178,7 @@ open_to      : Collaboration · Open Source · Freelance · Consulting
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Developer-ritesh&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+![](https://github-profile-trophy.vercel.app/?username=Developer-ritesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
 ---
@@ -191,36 +187,33 @@ open_to      : Collaboration · Open Source · Freelance · Consulting
 
 <div align="center">
 
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Developer-ritesh&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0a0a0f&title_color=7c6ef0&text_color=e8e6f0)](https://github.com/Developer-ritesh)
+![](https://github-contributor-stats.vercel.app/api?username=Developer-ritesh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
 ---
 
-## `$ cat services.sh`  *(via BihariGraphic)*
+## `$ cat services.sh`
 
 ```bash
 #!/bin/bash
-# What BihariGraphic delivers — biharigraphic.com
+# BihariGraphic — biharigraphic.com  |  Est. 2021
 
 SERVICES=(
-  "🌐  Web Development    — Modern, fast, scalable websites & web apps"
-  "📱  Mobile Apps        — Flutter & Android apps for iOS & Android"
-  "🎨  UI/UX Design       — Figma · Adobe XD · User-centered design"
-  "🛒  Custom Software    — SaaS products, tools & business automation"
-  "🔧  IT Consulting      — Tech strategy, architecture & code review"
-  "🔐  App Security       — Security testing & best practices"
+  "🌐  Web Development    — Fast, scalable websites & web apps"
+  "📱  Mobile Apps        — Flutter & Android for iOS & Android"
+  "🎨  UI/UX Design       — Figma · Adobe XD · User-first design"
+  "🛒  Custom Software    — SaaS products, tools & automation"
+  "🔧  IT Consulting      — Architecture, strategy & code review"
+  "🔐  App Security       — Security audits & best practices"
 )
 
-for svc in "${SERVICES[@]}"; do
-  echo "  ✦  $svc"
-done
+for svc in "${SERVICES[@]}"; do echo "  ✦  $svc"; done
 
 echo ""
-echo "  📍 Arrah, Bihar, India"
-echo "  📧 help.biharigraphic@gmail.com"
-echo "  📞 +91 91357 11887"
-echo "  🌍 https://biharigraphic.com"
+echo "  📍  Arrah, Bihar, India"
+echo "  📧  help.biharigraphic@gmail.com"
+echo "  🌍  https://biharigraphic.com"
 ```
 
 ---
@@ -229,10 +222,10 @@ echo "  🌍 https://biharigraphic.com"
 
 ```bash
 #!/bin/bash
-# Current focus — 2025
+# What I'm doing right now — 2025
 
 NOW=(
-  "🏢  Leading & growing BihariGraphic (2021 → present)"
+  "🏢  Leading & growing BihariGraphic  (2021 → present)"
   "📱  Shipping cross-platform Flutter applications"
   "🎮  Exploring Unity Game Development (C#)"
   "📹  Creating dev tutorials on YouTube"
@@ -240,9 +233,7 @@ NOW=(
   "🤝  Mentoring the next generation of developers"
 )
 
-for item in "${NOW[@]}"; do
-  echo "  ▶  $item"
-done
+for item in "${NOW[@]}"; do echo "  ▶  $item"; done
 ```
 
 ---
@@ -258,15 +249,15 @@ done
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/developerritesh)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Developer-ritesh)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/prajapatiicon)
-[![BihariGraphic](https://img.shields.io/badge/BihariGraphic.com-e96d4e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://biharigraphic.com)
+[![BihariGraphic](https://img.shields.io/badge/🌍_biharigraphic.com-e96d4e?style=for-the-badge)](https://biharigraphic.com)
 
 </div>
 
 ---
 
-## `$ sudo donate --help`
+## `$ sudo donate`
 
-> *If my work, videos, or open-source contributions have helped you, consider supporting me* ☕
+> *If my work, videos, or open-source contributions helped you — consider buying me a coffee ☕*
 
 <div align="center">
 
@@ -276,20 +267,13 @@ done
 
 ---
 
+<!-- FOOTER WAVE -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6ef0,50:4ecdc4,100:e96d4e&height=100&section=footer&text=Thanks+for+visiting!+Drop+a+%E2%AD%90+if+something+helped&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
+
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   🏢  Founder & CEO · BihariGraphic · biharigraphic.com       ║
-║   📍  Arrah, Bihar, India  ·  Est. 2021 → Present             ║
-║                                                               ║
-║   Thanks for visiting! Drop a ⭐ if something helped you.     ║
-║                                                               ║
-║   ~/Developer-ritesh ❯ exit 0  ▌                              ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-*Made with ♥ from Bihar, India*
+*🏢 Founder & CEO · [BihariGraphic](https://biharigraphic.com) · Est. 2021 → Present · Arrah, Bihar, India*
 
 </div>
